@@ -1,0 +1,41 @@
+.text {
+	font-size: 480%;
+	margin: 30px;
+	padding: 60px;
+	font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+}
+
+.left_part {
+	background: url(frame_elements/ramka-height.png) repeat-y left top;
+	margin-left: 60px;
+}
+
+.right_part {
+	background: url(frame_elements/ramka-height.png) repeat-y right top;
+	margin-right: 60px;
+}
+
+.top_part {
+	background: url(frame_elements/ramka-width.png) repeat-x top;
+}
+
+.bottom_part {
+	background: url(frame_elements/ramka-width_.png) repeat-x bottom;
+}
+
+.top_left_part {
+	background: url(frame_elements/ramka-left-top.png) no-repeat left top;
+}
+
+.top_right_part {
+	background: url(frame_elements/ramka-right-top.png) no-repeat right top;
+}
+
+.bottom_left_part {
+	background: url(frame_elements/ramka-left-bottom.png) no-repeat left bottom;
+}
+
+.bottom_right_part {
+	background: url(frame_elements/ramka-right-bottom.png) no-repeat right bottom;
+}
